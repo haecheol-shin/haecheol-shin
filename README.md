@@ -42,7 +42,7 @@
 Bachelor's degree of Computer engineering ```(03/2022 ~ 02/2024)``` (Gachon University)   
 
 ## ADDITIONAL SKILLS
-<span>
+<!-- <span>
     <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
@@ -67,7 +67,7 @@ Bachelor's degree of Computer engineering ```(03/2022 ~ 02/2024)``` (Gachon Univ
 <span>
     <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
 </span>
-
+-->
 </div>
 </div>
 
