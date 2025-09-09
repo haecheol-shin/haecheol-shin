@@ -37,6 +37,7 @@
 ## OBJECTIVE
 
 ## WORK EXPERIENCE
+Kakao Enterprise @ LaaS 개발 Team ```(10/2024 ~ 12/2024)```
 
 ## EDUCATION
 Bachelor's degree of Computer engineering ```(03/2022 ~ 02/2024)``` (Gachon University)   
